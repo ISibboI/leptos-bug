@@ -1,0 +1,2 @@
+[watch]
+ignore = [".vscode", ".gitignore", "rustfmt.toml", "target"]
